@@ -13,7 +13,8 @@ from gensim.models import Word2Vec # 分词结果向量化
 ----
 ## 流程图
 
-<img src="https://github.com/Taplus/comments_analysis/blob/main/im/2.png" alt="流程图" style="zoom:67%;" />
+  <img src="https://github.com/Taplus/comments_analysis/blob/main/im/2.png" alt="流程图" style="zoom:60%;" />
+
 ----
 ## 源码，只展示了核心代码，每个脚本都是独立的
 
