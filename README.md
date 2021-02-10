@@ -332,11 +332,11 @@ from gensim.models import Word2Vec # 分词结果向量化
 
 - 关键词权重图
 
-  <img src="D:\GIT\comment_analysis\im\keyword.png" alt="关键词" style="zoom:60%;" />
+  <img src="https://github.com/Taplus/comments_analysis/blob/main/im/keyword.png" alt="关键词" style="zoom:60%;" />
 
 - 词云图
 
-  <img src="https://github.com/Taplus/comments_analysis/blob/main/im/frequence.png" alt="词云" style="zoom:30%;" />
+  <img src="https://github.com/Taplus/comments_analysis/blob/main/im/wordcloud.png" alt="词云" style="zoom:30%;" />
 
 - 词向量可视化
 
