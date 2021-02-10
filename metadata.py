@@ -42,5 +42,6 @@ def main():
         write2txt(url,page)
         page += 1
     print(page)
-    
-main()
+
+if __name__ == '__main__':
+    main()
