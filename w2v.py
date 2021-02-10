@@ -1,3 +1,4 @@
+'''分词向量化'''
 import jieba
 import gensim
 from gensim.models import Word2Vec
