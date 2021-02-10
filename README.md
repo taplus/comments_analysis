@@ -13,7 +13,7 @@ from gensim.models import Word2Vec # 分词结果向量化
 ----
 ## 流程图
 
-<img src="C:\Users\TITAN\Desktop\2.png" alt="2" style="zoom:67%;" />
+<img src="https://github.com/Taplus/comments_analysis/blob/main/im/2.png" alt="流程图" style="zoom:67%;" />
 ----
 ## 源码，只展示了核心代码，每个脚本都是独立的
 
@@ -321,14 +321,14 @@ from gensim.models import Word2Vec # 分词结果向量化
 
 - 词向量可视化，打开 https://projector.tensorflow.org/ ，加载向量文件和标签即可生成可视化图像
 
-   <img src="C:\Users\TITAN\Desktop\1.png" style="zoom:60%;" />
+   <img src="https://github.com/Taplus/comments_analysis/blob/main/im/1.png" style="zoom:60%;" />
 
 ------
 
 ## 结果展示
 - 词频统计图
 
-  <img src="D:\GIT\comment_analysis\im\frequence.png" alt="词频统计" style="zoom:60%;" />
+  <img src="https://github.com/Taplus/comments_analysis/blob/main/im/frequence.png" alt="词频统计" style="zoom:60%;" />
 
 - 关键词权重图
 
@@ -336,11 +336,11 @@ from gensim.models import Word2Vec # 分词结果向量化
 
 - 词云图
 
-  <img src="https://github.com/Taplus/comments_analysis/blob/main/im/wordcloud.png" alt="词云" style="zoom:30%;" />
+  <img src="https://github.com/Taplus/comments_analysis/blob/main/im/frequence.png" alt="词云" style="zoom:30%;" />
 
 - 词向量可视化
 
-  <img src="C:\Users\TITAN\Desktop\3.png" alt="null" style="zoom:90%;" />
+  <img src="https://github.com/Taplus/comments_analysis/blob/main/im/3.png" alt="null" style="zoom:90%;" />
 
   - 功夫不到家，生成的可视化数据一团糟~~~
 
@@ -349,4 +349,3 @@ from gensim.models import Word2Vec # 分词结果向量化
 ## 参考
 
 1. [[超详细\] Python3爬取豆瓣影评、去停用词、词云图、评论关键词绘图处理]: https://blog.csdn.net/qq_41815243/article/details/91693368
-
