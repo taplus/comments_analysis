@@ -336,7 +336,7 @@ from gensim.models import Word2Vec # 分词结果向量化
 
 - 词云图
 
-  <img src="D:\GIT\comment_analysis\im\wordcloud.png" alt="词云" style="zoom:30%;" />
+  <img src="https://github.com/Taplus/comments_analysis/blob/main/im/wordcloud.png" alt="词云" style="zoom:30%;" />
 
 - 词向量可视化
 
@@ -349,3 +349,4 @@ from gensim.models import Word2Vec # 分词结果向量化
 ## 参考
 
 1. [[超详细\] Python3爬取豆瓣影评、去停用词、词云图、评论关键词绘图处理]: https://blog.csdn.net/qq_41815243/article/details/91693368
+
